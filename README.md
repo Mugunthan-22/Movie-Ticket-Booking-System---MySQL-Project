@@ -1,1 +1,95 @@
 # Movie-Ticket-Booking-System---MySQL-Project
+This project is a complete Movie Ticket Booking System Database built using MySQL.
+
+The database contains:
+
+13 relational tables
+Primary Key & Foreign Key relationships
+Realistic movie booking data
+SQL joins
+Aggregate functions
+Subqueries
+Window functions
+
+tools used:
+MySql
+Mysql Workbench
+
+This project is useful for:
+SQL practice
+DBMS mini projects
+College projects
+GitHub portfolio projects
+
+
+Database Tables
+users
+genres
+languages
+movies
+theaters
+screens
+seats
+shows
+bookings
+booking_details
+payments
+refunds
+reviews
+
+
+SQL Concepts Used
+CREATE TABLE
+INSERT INTO
+INNER JOIN
+GROUP BY
+HAVING
+SUBQUERIES
+WINDOW FUNCTIONS
+RANK()
+DENSE_RANK()
+ROW_NUMBER()
+
+
+Project Files
+table-creation.sql
+Contains:
+Database creation
+All 13 table creation queries
+Insert statements
+query.sql
+Contains:
+25 SQL practice tasks and solutions
+
+
+Query Categories
+Basic + JOIN Queries
+Movie details
+Booking details
+Theater details
+IMAX screens
+Seat availability
+
+
+GROUP BY + HAVING
+Genre analysis
+Average durations
+Revenue calculations
+
+Multiple JOIN Queries
+Booking reports
+Refund tracking
+Review analysis
+
+Subqueries
+Highest duration movie
+Above average spending users
+Top rated movies
+
+Window Functions
+RANK()
+DENSE_RANK()
+ROW_NUMBER()
+Running totals
+
+
